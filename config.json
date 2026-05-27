@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdync",
+        "uuid": 658258,
+        "checksum": "je4aic"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
